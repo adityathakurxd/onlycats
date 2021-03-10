@@ -2,6 +2,9 @@
 
 Only Cats Flutter Application
 
+![Only Cats Logo](https://user-images.githubusercontent.com/53579386/110613466-516c9180-81b7-11eb-8e0c-a257aeb1fee8.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

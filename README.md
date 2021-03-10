@@ -1,8 +1,9 @@
-# onlycats
+# OnlyCats
 
 Only Cats Flutter Application
 
-![Only Cats Logo](https://user-images.githubusercontent.com/53579386/110613466-516c9180-81b7-11eb-8e0c-a257aeb1fee8.png)
+![Add a subheading (1)](https://user-images.githubusercontent.com/53579386/110613590-76610480-81b7-11eb-946e-d96581155efe.png)
+
 
 
 ## Getting Started
